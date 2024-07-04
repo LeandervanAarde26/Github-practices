@@ -1,5 +1,23 @@
 # Internal-Repository suggestions
 
+## Introduction
+This document serves as a comprehensive guide to effectively manage our codebase, ensuring clarity, consistency, and collaboration across repositories. Proper repository management is crucial for maintaining code quality, facilitating seamless collaboration, and enabling efficient project scalability.
+
+In this document, you will find structured guidelines on organizing our repositories, documenting projects, version control best practices, and fostering a productive development workflow. This guide aims to provide you with the necessary tools and processes to contribute effectively to our projects.
+
+By following these guidelines, we aim to achieve:
+
+Consistency: Establishing uniform practices for code structure, naming conventions, and repository organization.
+
+Efficiency: Streamlining workflows through automated processes, clear documentation, and effective communication.
+
+Quality: Maintaining high standards of code quality, testing, and deployment practices.
+
+Collaboration: Encouraging teamwork, code reviews, and knowledge sharing among team members.
+
+This document will evolve alongside our projects, reflecting updates and improvements in our development practices. Collaboration is highly encouraged in order to create consitency across repositories and workspaces.
+
+
 ## READ ME
 
 Documentation is a key component in giving insight to team members, especially new developers, about the project. Proper documentation provides a uniform understanding of the project, and the README file is a fundamental part of assisting developers in particular. This document should be an informative piece that gives developers insights into crucial <ins>need to knows</ins>:
@@ -129,7 +147,7 @@ eg.
 
 <hr/>
 
-
+In order to ease the process of creating these commits, tools such as [Commitizen](https://commitizen-tools.github.io/commitizen/) can be inroduced as Development dependancies.
 
 ## Pull Requests
 
@@ -163,5 +181,4 @@ A good reference to making an effective Pull request can be found [Here](https:/
 
 ## Ticket Number 1️⃣ 2️⃣ 3️⃣
 *(If applicable)*
-
 
