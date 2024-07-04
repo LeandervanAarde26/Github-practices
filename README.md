@@ -1,9 +1,11 @@
 # Internal-Repository suggestions
 
 ## READ ME
-### Project Name
 
-Documentation is a key component in giving insight to team members, especially new developers, about the project. Proper documentation provides a uniform understanding of the project, and the README file is a fundamental part of assisting developers in particular. This document should be an informative piece that gives developers insights into:
+Documentation is a key component in giving insight to team members, especially new developers, about the project. Proper documentation provides a uniform understanding of the project, and the README file is a fundamental part of assisting developers in particular. This document should be an informative piece that gives developers insights into crucial <ins>need to knows</ins>:
+
+The following information is a recommendation of structure for __README.MD__ files: 
+### Project Name
 
 ### Project Overview
 - **What the project is:** Provide a brief summary of the project's purpose and goals.
@@ -30,7 +32,7 @@ Documentation is a key component in giving insight to team members, especially n
 - **Release Notes:** Link to the release notes or changelog.
 
 ### Contribution Guidelines
-- **How to Contribute:** Explain how developers can contribute to the project.
+- **How to Contribute:** Explain how developers can contribute to the project and how aspects such as Pull requests and commits should be structured.
     - Fork the repository.
     - Create a new branch.
     - Make changes and commit them.
@@ -51,6 +53,7 @@ Documentation is a key component in giving insight to team members, especially n
 
 **Please note That this structure will vary basied on technologies and could be adapted from project to project**
 
+__NOTE__: README files should be reviewed regularly and kept up to date to make processes such as handovers easier and more efficient, the README file should act as a source of truth for developers and is a comprehensive guide as to what to expect, it's a good idea to further include things such as Design patterns, database types etc. 
 #### README RESOURCES:
 - [Medium](https://wengerk.medium.com/why-having-a-readme-on-your-internal-project-is-essential-c85cb9dd8e65#:~:text=This%20is%20where%20the%20README,to%20contribute%20to%20the%20project.)
 - [MyGreatLearning](https://www.mygreatlearning.com/blog/readme-file/)
@@ -160,3 +163,5 @@ A good reference to making an effective Pull request can be found [Here](https:/
 
 ## Ticket Number 1️⃣ 2️⃣ 3️⃣
 *(If applicable)*
+
+
